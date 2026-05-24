@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **etiong.dhie07@gmail.com**
 
-- 📄 Know about my experiences [https://myownportfolio-five.vercel.app/](https://myownportfolio-five.vercel.app/)
+- 📄 Know about my experiences [https://my-new-portfolio-eight-sigma.vercel.app/](https://my-new-portfolio-eight-sigma.vercel.app/)
 
 - ⚡ Fun fact **I am Online Gamer**
 
